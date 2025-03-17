@@ -10,3 +10,4 @@ pydantic
 beautifulsoup4
 readability-lxml
 pytest
+lxml[html_clean] 
