@@ -10,3 +10,8 @@ pydantic
 beautifulsoup4
 readability-lxml
 pytest
+lxml[html_clean] 
+
+# NOTE: Before running the project, update the .env file with your API key.
+# Example:
+# Groq_API_KEY=your_actual_api_key_here
