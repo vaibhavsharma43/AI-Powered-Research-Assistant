@@ -1,0 +1,12 @@
+image: python:3.10.11  # Use Python 3.10.11 Docker image
+
+pipelines:
+  default:
+    - step:
+        name: Install Dependencies and Run Tests
+        caches:
+          - pip
+        script:
+          - python -m pip install --upgrade pip
+          - pip install -r requirements.txt
+          - pytest Test/
