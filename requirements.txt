@@ -1,0 +1,12 @@
+duckduckgo-search 
+langchain-community
+crawl4ai
+langchain
+openai
+langchain_groq
+duckduckgo-search
+python-dotenv
+pydantic
+beautifulsoup4
+readability-lxml
+pytest
