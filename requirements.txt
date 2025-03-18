@@ -10,12 +10,10 @@ pydantic
 beautifulsoup4
 readability-lxml
 pytest
-<<<<<<< HEAD
-lxml[html_clean] 
+lxml[html_clean]
+"fastapi[standard]" 
+streamlit
 
 # NOTE: Before running the project, update the .env file with your API key.
 # Example:
 # Groq_API_KEY=your_actual_api_key_here
-=======
-lxml[html_clean] 
->>>>>>> ba26be1156a003eb0ddf810ef2338ec8b1ecac34
